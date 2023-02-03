@@ -11,7 +11,7 @@ __Features__ __Include:__
       - __72V__ __150A__ Homemade Battery [__320__ 18650 cells]
       - Battery-monitoring system installed
   - 20 MPH Top speed
-      - 2 ___300W___ DC motors w/ESC's 
+      - 2 __300W__ DC motors w/ESC's 
   
   
    
