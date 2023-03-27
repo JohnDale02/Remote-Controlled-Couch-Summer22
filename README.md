@@ -1,4 +1,4 @@
-# Eluetooth Electric Couch - v1
+# Bluetooth Electric Couch - v1
 __Features__ __Include:__
   - PS4 Connectivity and control over __Bluetooth__ 
       - Throttle control
