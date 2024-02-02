@@ -4,6 +4,10 @@
 
 The Electric Couch Vehicle is an innovative project that merges comfort with mobility, resulting in a one-of-a-kind electric driving couch. Built entirely from scratch, this project showcases a custom 72V 40Ah Li-ion battery pack made from 18650 cells, achieving a range of 5 miles per charge and a top speed of 15 MPH. It's controlled wirelessly via a Bluetooth-connected PS4 controller and is programmed primarily in C++.
 
+
+https://github.com/JohnDale02/Remote-Controlled-Couch-Summer22/assets/116762794/83e7affa-74f2-4332-bba1-fb5070b8b2ca
+
+
 ### Project Duration
 
 **June 2022 – August 2022**
