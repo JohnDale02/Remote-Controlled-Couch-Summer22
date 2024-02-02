@@ -25,4 +25,4 @@ The project emphasized designing and fabricating a working prototype rather than
 
 ## Resources
 
-- **Hackster.io Article:** Learn more about our project and engage in my twin brother's YouTube video on the couch here [Hackster.io feature]([https://www.umass.edu/engineering/news/john-dale-hackumass](https://www.hackster.io/news/this-full-sized-couch-can-drive-like-a-go-kart-with-only-a-ps4-controller-6d67df7d7203)https://www.hackster.io/news/this-full-sized-couch-can-drive-like-a-go-kart-with-only-a-ps4-controller-6d67df7d7203).
+- **Hackster.io Article:** Learn more about our project and engage in my twin brother's YouTube video on the couch here [Hackster.io feature](https://www.hackster.io/news/this-full-sized-couch-can-drive-like-a-go-kart-with-only-a-ps4-controller-6d67df7d7203).
